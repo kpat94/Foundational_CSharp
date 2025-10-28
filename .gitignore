@@ -1,0 +1,53 @@
+## Ignore build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+*.log
+
+## Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore Visual Studio files
+.vs/
+.vscode/
+
+## Ignore NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+## Ignore test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Ignore temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+
+## Ignore debug and release folders
+**/Debug/
+**/Release/
+
+## Ignore publish output
+publish/
+
+## Ignore ReSharper files
+_ReSharper*/
+*.DotSettings.user
+
+## Ignore Rider files
+.idea/
+
+## Ignore OS files
+.DS_Store
+Thumbs.db
