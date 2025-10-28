@@ -1,0 +1,14 @@
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\bin\Debug\net8.0\C#_Arrays.exe
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\bin\Debug\net8.0\C#_Arrays.deps.json
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\bin\Debug\net8.0\C#_Arrays.runtimeconfig.json
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\bin\Debug\net8.0\C#_Arrays.dll
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\bin\Debug\net8.0\C#_Arrays.pdb
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\obj\Debug\net8.0\C#_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\obj\Debug\net8.0\C#_Arrays.AssemblyInfoInputs.cache
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\obj\Debug\net8.0\C#_Arrays.AssemblyInfo.cs
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\obj\Debug\net8.0\C#_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\obj\Debug\net8.0\C#_Arrays.dll
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\obj\Debug\net8.0\refint\C#_Arrays.dll
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\obj\Debug\net8.0\C#_Arrays.pdb
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\obj\Debug\net8.0\C#_Arrays.genruntimeconfig.cache
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\obj\Debug\net8.0\ref\C#_Arrays.dll

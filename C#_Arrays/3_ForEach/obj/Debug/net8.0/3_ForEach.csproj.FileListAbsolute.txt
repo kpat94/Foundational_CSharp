@@ -1,0 +1,14 @@
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\3_ForEach\bin\Debug\net8.0\3_ForEach.exe
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\3_ForEach\bin\Debug\net8.0\3_ForEach.deps.json
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\3_ForEach\bin\Debug\net8.0\3_ForEach.runtimeconfig.json
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\3_ForEach\bin\Debug\net8.0\3_ForEach.dll
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\3_ForEach\bin\Debug\net8.0\3_ForEach.pdb
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\3_ForEach\obj\Debug\net8.0\3_ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\3_ForEach\obj\Debug\net8.0\3_ForEach.AssemblyInfoInputs.cache
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\3_ForEach\obj\Debug\net8.0\3_ForEach.AssemblyInfo.cs
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\3_ForEach\obj\Debug\net8.0\3_ForEach.csproj.CoreCompileInputs.cache
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\3_ForEach\obj\Debug\net8.0\3_ForEach.dll
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\3_ForEach\obj\Debug\net8.0\refint\3_ForEach.dll
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\3_ForEach\obj\Debug\net8.0\3_ForEach.pdb
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\3_ForEach\obj\Debug\net8.0\3_ForEach.genruntimeconfig.cache
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays\3_ForEach\obj\Debug\net8.0\ref\3_ForEach.dll
