@@ -1,0 +1,14 @@
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.exe
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.deps.json
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.dll
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.pdb
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.dll
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.pdb
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Challenge-project-debugging-CSharp-main\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\ref\Starter.dll

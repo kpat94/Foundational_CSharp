@@ -1,0 +1,14 @@
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\8_Challenge\bin\Debug\net8.0\8_Challenge.exe
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\8_Challenge\bin\Debug\net8.0\8_Challenge.deps.json
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\8_Challenge\bin\Debug\net8.0\8_Challenge.runtimeconfig.json
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\8_Challenge\bin\Debug\net8.0\8_Challenge.dll
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\8_Challenge\bin\Debug\net8.0\8_Challenge.pdb
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\8_Challenge\obj\Debug\net8.0\8_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\8_Challenge\obj\Debug\net8.0\8_Challenge.AssemblyInfoInputs.cache
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\8_Challenge\obj\Debug\net8.0\8_Challenge.AssemblyInfo.cs
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\8_Challenge\obj\Debug\net8.0\8_Challenge.csproj.CoreCompileInputs.cache
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\8_Challenge\obj\Debug\net8.0\8_Challenge.dll
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\8_Challenge\obj\Debug\net8.0\refint\8_Challenge.dll
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\8_Challenge\obj\Debug\net8.0\8_Challenge.pdb
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\8_Challenge\obj\Debug\net8.0\8_Challenge.genruntimeconfig.cache
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\8_Challenge\obj\Debug\net8.0\ref\8_Challenge.dll

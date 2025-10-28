@@ -1,0 +1,14 @@
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Guided-project-debugging-CSharp-main\Guided-project-debugging-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Guided-project-debugging-CSharp-main\Guided-project-debugging-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Guided-project-debugging-CSharp-main\Guided-project-debugging-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Guided-project-debugging-CSharp-main\Guided-project-debugging-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Guided-project-debugging-CSharp-main\Guided-project-debugging-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Guided-project-debugging-CSharp-main\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Guided-project-debugging-CSharp-main\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Guided-project-debugging-CSharp-main\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Guided-project-debugging-CSharp-main\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Guided-project-debugging-CSharp-main\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Guided-project-debugging-CSharp-main\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Guided-project-debugging-CSharp-main\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Guided-project-debugging-CSharp-main\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Guided-project-debugging-CSharp-main\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll

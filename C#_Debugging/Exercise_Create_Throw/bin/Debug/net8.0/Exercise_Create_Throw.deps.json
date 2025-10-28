@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercise_Create_Throw/1.0.0": {
+        "runtime": {
+          "Exercise_Create_Throw.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise_Create_Throw/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

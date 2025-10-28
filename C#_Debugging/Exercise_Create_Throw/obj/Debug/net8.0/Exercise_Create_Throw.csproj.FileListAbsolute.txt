@@ -1,0 +1,14 @@
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Exercise_Create_Throw\bin\Debug\net8.0\Exercise_Create_Throw.exe
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Exercise_Create_Throw\bin\Debug\net8.0\Exercise_Create_Throw.deps.json
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Exercise_Create_Throw\bin\Debug\net8.0\Exercise_Create_Throw.runtimeconfig.json
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Exercise_Create_Throw\bin\Debug\net8.0\Exercise_Create_Throw.dll
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Exercise_Create_Throw\bin\Debug\net8.0\Exercise_Create_Throw.pdb
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Exercise_Create_Throw\obj\Debug\net8.0\Exercise_Create_Throw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Exercise_Create_Throw\obj\Debug\net8.0\Exercise_Create_Throw.AssemblyInfoInputs.cache
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Exercise_Create_Throw\obj\Debug\net8.0\Exercise_Create_Throw.AssemblyInfo.cs
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Exercise_Create_Throw\obj\Debug\net8.0\Exercise_Create_Throw.csproj.CoreCompileInputs.cache
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Exercise_Create_Throw\obj\Debug\net8.0\Exercise_Create_Throw.dll
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Exercise_Create_Throw\obj\Debug\net8.0\refint\Exercise_Create_Throw.dll
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Exercise_Create_Throw\obj\Debug\net8.0\Exercise_Create_Throw.pdb
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Exercise_Create_Throw\obj\Debug\net8.0\Exercise_Create_Throw.genruntimeconfig.cache
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\Exercise_Create_Throw\obj\Debug\net8.0\ref\Exercise_Create_Throw.dll

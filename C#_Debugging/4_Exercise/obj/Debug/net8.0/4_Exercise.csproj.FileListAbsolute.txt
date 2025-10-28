@@ -1,0 +1,14 @@
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\4_Exercise\bin\Debug\net8.0\4_Exercise.exe
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\4_Exercise\bin\Debug\net8.0\4_Exercise.deps.json
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\4_Exercise\bin\Debug\net8.0\4_Exercise.runtimeconfig.json
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\4_Exercise\bin\Debug\net8.0\4_Exercise.dll
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\4_Exercise\bin\Debug\net8.0\4_Exercise.pdb
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\4_Exercise\obj\Debug\net8.0\4_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\4_Exercise\obj\Debug\net8.0\4_Exercise.AssemblyInfoInputs.cache
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\4_Exercise\obj\Debug\net8.0\4_Exercise.AssemblyInfo.cs
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\4_Exercise\obj\Debug\net8.0\4_Exercise.csproj.CoreCompileInputs.cache
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\4_Exercise\obj\Debug\net8.0\4_Exercise.dll
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\4_Exercise\obj\Debug\net8.0\refint\4_Exercise.dll
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\4_Exercise\obj\Debug\net8.0\4_Exercise.pdb
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\4_Exercise\obj\Debug\net8.0\4_Exercise.genruntimeconfig.cache
+c:\Users\pkkin\OneDrive\Documents\Projects\C#_Debugging\4_Exercise\obj\Debug\net8.0\ref\4_Exercise.dll
