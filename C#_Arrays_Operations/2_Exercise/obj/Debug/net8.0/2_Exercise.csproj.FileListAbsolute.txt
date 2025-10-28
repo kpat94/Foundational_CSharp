@@ -1,0 +1,14 @@
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\2_Exercise\bin\Debug\net8.0\2_Exercise.exe
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\2_Exercise\bin\Debug\net8.0\2_Exercise.deps.json
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\2_Exercise\bin\Debug\net8.0\2_Exercise.runtimeconfig.json
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\2_Exercise\bin\Debug\net8.0\2_Exercise.dll
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\2_Exercise\bin\Debug\net8.0\2_Exercise.pdb
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\2_Exercise\obj\Debug\net8.0\2_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\2_Exercise\obj\Debug\net8.0\2_Exercise.AssemblyInfoInputs.cache
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\2_Exercise\obj\Debug\net8.0\2_Exercise.AssemblyInfo.cs
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\2_Exercise\obj\Debug\net8.0\2_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\2_Exercise\obj\Debug\net8.0\2_Exercise.dll
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\2_Exercise\obj\Debug\net8.0\refint\2_Exercise.dll
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\2_Exercise\obj\Debug\net8.0\2_Exercise.pdb
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\2_Exercise\obj\Debug\net8.0\2_Exercise.genruntimeconfig.cache
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\2_Exercise\obj\Debug\net8.0\ref\2_Exercise.dll

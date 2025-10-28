@@ -1,0 +1,14 @@
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\7_Challenge_2\bin\Debug\net8.0\7_Challenge_2.exe
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\7_Challenge_2\bin\Debug\net8.0\7_Challenge_2.deps.json
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\7_Challenge_2\bin\Debug\net8.0\7_Challenge_2.runtimeconfig.json
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\7_Challenge_2\bin\Debug\net8.0\7_Challenge_2.dll
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\7_Challenge_2\bin\Debug\net8.0\7_Challenge_2.pdb
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\7_Challenge_2\obj\Debug\net8.0\7_Challenge_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\7_Challenge_2\obj\Debug\net8.0\7_Challenge_2.AssemblyInfoInputs.cache
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\7_Challenge_2\obj\Debug\net8.0\7_Challenge_2.AssemblyInfo.cs
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\7_Challenge_2\obj\Debug\net8.0\7_Challenge_2.csproj.CoreCompileInputs.cache
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\7_Challenge_2\obj\Debug\net8.0\7_Challenge_2.dll
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\7_Challenge_2\obj\Debug\net8.0\refint\7_Challenge_2.dll
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\7_Challenge_2\obj\Debug\net8.0\7_Challenge_2.pdb
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\7_Challenge_2\obj\Debug\net8.0\7_Challenge_2.genruntimeconfig.cache
+C:\Users\pkkin\OneDrive\Documents\Projects\C#_Arrays_Operations\7_Challenge_2\obj\Debug\net8.0\ref\7_Challenge_2.dll
